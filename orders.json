@@ -1,0 +1,47 @@
+{
+  "MBG290320": {
+    "status": "Waiting for payment",
+    "statusClass": "pending",
+    "sender": "Victor Dieter, Lessingstraße 11, 18209 Bad Doberan, Germany",
+    "receiver": "Federico Curt, C. de Jupiter, 503007 Alicante, Spain",
+    "price": "38.000 €",
+    "description": "Manufacturer: Mercedes-Benz <br>Model: G 320 CDI Cabrio <br>Chassis number: VBKUSV403HM706417<br>First registration: 07/2008 <br> Mileage: 333.639 km <br> Power: 165 kW (224 PS)<br> Engine capacity: 2987 cm³<br> <br> The car is fully functional, no falls or accidents.<br> A lot of new extras during a restoration <br> German Registration. All papers, service book, and keys are included.",
+    "address": "Federico Curt <br> C. de Jupiter <br> 503007 Alicante <br>Spain<br> Telefon: +34 649296856",
+    "documents": [
+      {
+        "name": "Delivery note",
+        "url": "docs/Delivery_note.pdf"
+      },
+      {
+        "name": "Purchase contract",
+        "url": "docs/Purchase_Contract.pdf"
+      },
+      {
+        "name": "Invoice",
+        "url": "docs/Invoice.pdf"
+      },
+      {
+        "name": "Terms & Conditions",
+        "url": "docs/Terms.pdf"
+      }
+    ],
+    "orderDate": "26-05-2026",
+    "deliveryDate": "05-06-2026",
+    "pickup": {
+      "street": "Lessingstraße 11",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Germany",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "C. de Jupiter",
+      "postal_code": "503007",
+      "city": "Alicante",
+      "country": "Spain",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
